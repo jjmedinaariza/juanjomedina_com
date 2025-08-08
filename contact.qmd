@@ -6,19 +6,17 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**JUAN JOSÉ MEDINA ARIZA**
 
-School
+Departamento de Derecho Penal y Ciencias Criminales
 
-College
+Facultad de Derecho
 
-University
+Universidad de Sevilla
 
-Address: 
+Avda. La Enramadilla, 18-20, 41018 Sevilla 
 
-Phone: 
-
-E-mail: 
+E-mail: jmedina11@us.es
 
 
 </center>

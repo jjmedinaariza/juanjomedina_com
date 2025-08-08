@@ -1,13 +1,37 @@
 
-    - path: https://www.nsf.gov/ 
-      image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
+    - path: https://convi-cities.com/transmedias/
+      image:  "files/images/transmedia.png"
+      title: "TranSMedias"
+      author: Cristina Sobrino y Cristina Fernández
+      subtitle: "Agencia Estatal de Investigación"
+      description: "Multidisciplinary research project aimed at generating 
+      knowledge about public policies on security and neighbourliness in 
+      medium-sized Spanish municipalities, as well as analysing their social 
+      effects, with the aim of proposing policy measures"
       started: "2024"
-      ended: "2025"
-      funding: "$0"
+      ended: "2027"
+      funding: "€40000"
 #      date: "2022-10-26"
-#      categories: [] 
+      categories: [public policy, citizen attitudes] 
 
+    - #path: https://convi-cities.com/transmedias/
+      #image:  "files/images/transmedia.png"
+      title: "PolRef"
+      author: Juanjo Medina
+      subtitle: "Agencia Estatal de Investigación"
+      description: ""
+      started: "2023"
+      ended: "2025"
+      funding: "€"
+      categories: [police] 
+
+    - #path: https://convi-cities.com/transmedias/
+      #image:  "files/images/transmedia.png"
+      title: "RiskPol"
+      author: Juanjo Medina
+      subtitle: "Junta de Andaluca"
+      description: ""
+      started: "2022"
+      ended: "2025"
+      funding: "€"
+      categories: [police, intimate partner violence, risk assessment] 

@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Recent Projects"
 subtitle: "Funded projects"
 page-layout: full
 listing: 
@@ -12,7 +12,7 @@ listing:
   image-height: 30px
   field-display-names: 
       title: "Title"
-      author: "Team"
+      author: "IP"
       subtitle: "Funder"
       started: "Start"
       ended: "End"
