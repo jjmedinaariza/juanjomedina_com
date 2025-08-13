@@ -42,12 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-2f1621423f1010886904490161de950b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-df9cb0ed18efe72821591ad4ee1da3b6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-2f1621423f1010886904490161de950b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -168,15 +166,15 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <link rel="alternate" type="application/rss+xml" title="juanjomedina.com" href="posts.xml" data-external="1"><meta property="og:title" content="What’s New &amp; Updated – juanjomedina.com">
 <meta property="og:description" content="Posts about papers, events, news, and more">
-<meta property="og:image" content="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg">
+<meta property="og:image" content="https://drganghe.github.io/quarto-academic-website-template/files/images/paper66.jpg">
 <meta property="og:site_name" content="juanjomedina.com">
 <meta name="twitter:title" content="What’s New &amp; Updated – juanjomedina.com">
 <meta name="twitter:description" content="Posts about papers, events, news, and more">
-<meta name="twitter:image" content="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg">
+<meta name="twitter:image" content="https://drganghe.github.io/quarto-academic-website-template/files/images/paper66.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -318,10 +316,8 @@ window.Quarto = {
         changeGiscusTheme();
       }
     };
-    const authorPrefersDark = false;
+    const authorPrefersDark = true;
     const darkModeDefault = authorPrefersDark;
-      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
-      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -361,7 +357,7 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./posts.html#category=news">
+    <a class="dropdown-item" href="./posts.html">
  <span class="dropdown-text">News</span></a>
   </li>  
         <li>
@@ -380,38 +376,34 @@ window.Quarto = {
  <span class="dropdown-text">List of Publications</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./posts.html#category=paper">
- <span class="dropdown-text">Selected Papers</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="./projects.html">
  <span class="dropdown-text">Recent projects</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Teaching</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
+        <li>
+    <a class="dropdown-item" href="./teaching.html">
+ <span class="dropdown-text">Current teaching</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./textbooks.html">
+ <span class="dropdown-text">Resources and Textbooks</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="https://www.pensarlaseguridad.eu" target="_blank"> 
 <span class="menu-text">Blog</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Outreach</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=presentation">
- <span class="dropdown-text">Presentations</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/nsf-biosketch.pdf"> 
+    <a class="nav-link" href="./files/medina_cva.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -447,7 +439,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZXZlbnQ=">event <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cGFwZXI=">paper <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJlc2VudGF0aW9u">presentation <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="bWVkaWE=">media <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cGFwZXI=">paper <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -506,119 +498,18 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1728943200000">
-<div class="thumbnail"><a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="no-external">
-
-<img loading="lazy" src="./files/images/placeholder1.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="no-external">Quarto Academic Website Examples and Tips</a>
-</h3>
-<div class="listing-subtitle">
-<a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
-
-</div>
-<div class="delink listing-description"><a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="no-external">
-<p>Examples and tips for Quarto Academic Website</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="no-external">
-<div class="listing-date">
-Oct 15, 2024
-</div>
-<div class="listing-author">
-Dr.&nbsp;Gang He
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1725314400000" data-listing-file-modified-sort="1754550332461" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
-<div class="thumbnail"><a href="./posts/event-title/index.html" class="no-external">
-
-<img loading="lazy" src="./files/images/placeholder2.JPG" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/event-title/index.html" class="no-external">Event item</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/event-title/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZXZlbnQ='); return false;">event</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJlc2VudGF0aW9u'); return false;">presentation</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/event-title/index.html" class="no-external">
-<p>About Event item.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/event-title/index.html" class="no-external">
-<div class="listing-date">
-Sep 3, 2024
-</div>
-<div class="listing-author">
-Event
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1719180000000" data-listing-file-modified-sort="1754550332461" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<div class="thumbnail"><a href="./posts/news-title/index.html" class="no-external">
-
-<img loading="lazy" src="./files/images/placeholder3.JPG" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/news-title/index.html" class="no-external">News item</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/news-title/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/news-title/index.html" class="no-external">
-<p>About new item</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/news-title/index.html" class="no-external">
-<div class="listing-date">
-Jun 24, 2024
-</div>
-<div class="listing-author">
-News
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="cGFwZXI=" data-listing-date-sort="-1092960000000" data-listing-file-modified-sort="1754550332464" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168">
+<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1759186800000" data-listing-file-modified-sort="1755095414840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
 <div class="thumbnail"><a href="./posts/paper-title/index.html" class="no-external">
 
-<img loading="lazy" src="./posts/paper-title/featured.jpg" class="thumbnail-image">
+<img loading="lazy" src="./files/images/paper66.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./posts/paper-title/index.html" class="no-external">Can quantum-mechanical description of physical reality be considered complete?</a>
+<a href="./posts/paper-title/index.html" class="no-external">Barrios y seguridad: ecología social del delito, prevención comunitaria y policía de barrio</a>
 </h3>
 <div class="listing-subtitle">
-<a href="./posts/paper-title/index.html" class="no-external"><em>Physical Review</em></a>
+<a href="./posts/paper-title/index.html" class="no-external">I just published a new article on <em>Revista Papers</em></a>
 </div>
 <div class="listing-categories">
 
@@ -626,16 +517,84 @@ News
 
 </div>
 <div class="delink listing-description"><a href="./posts/paper-title/index.html" class="no-external">
-<p>One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 </a></div>
 </div>
 <div class="metadata">
 <a href="./posts/paper-title/index.html" class="no-external">
 <div class="listing-date">
-May 15, 1935
+Sep 30, 2025
 </div>
 <div class="listing-author">
-Albert Einstein, Boris Podolsky, Nathan Rosen
+Juanjo Medina
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="bmV3cyUyQ21lZGlh" data-listing-date-sort="1751151600000" data-listing-file-modified-sort="1755095489922" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
+<div class="thumbnail"><a href="./posts/event-title/index.html" class="no-external">
+
+<img loading="lazy" src="./files/images/publico1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/event-title/index.html" class="no-external">Interviewed by Publico</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/event-title/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('bWVkaWE='); return false;">media</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/event-title/index.html" class="no-external">
+<p>Media article about police racism. They interviewed me for the piece</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/event-title/index.html" class="no-external">
+<div class="listing-date">
+Jun 29, 2025
+</div>
+<div class="listing-author">
+Juanjo Medina
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1751065200000" data-listing-file-modified-sort="1754932878696" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<div class="thumbnail"><a href="./posts/new-website/index.html" class="no-external">
+
+<img loading="lazy" src="./files/images/quarto.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/new-website/index.html" class="no-external">A new website</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/new-website/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/new-website/index.html" class="no-external">
+<p>About this website</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/new-website/index.html" class="no-external">
+<div class="listing-date">
+Jun 28, 2025
+</div>
+<div class="listing-author">
+Juanjo Medina
 </div>
 </a>
 </div>

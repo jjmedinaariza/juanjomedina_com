@@ -1,16 +1,17 @@
 ---
-title: "Event item"
-description: "About Event item."
-author: "Event"
-date: "2024-09-03"
-categories: [event, presentation]
-image: "/files/images/placeholder2.JPG"
+title: "Interviewed by Publico"
+description: "Media article about police racism. They interviewed me for the piece"
+author: "Juanjo Medina"
+date: "2025-06-29"
+categories: [news, media]
+image: "/files/images/publico1.png"
 #css: /custom.css
 #draft: true
 ---
 
-[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+## Summary
 
+I got interviewed by journalists reporting for Público about the issue of police racism. You can find the featured article [here](https://www.publico.es/sociedad/migracion/migrantes-denuncian-brutalidad-policial-racismo-institucional-sufri-derrame-cerebral-paliza.html).
 
 <!--Include social share buttons-->
 

@@ -1,0 +1,172 @@
+---
+title: "Resources and Textbooks"
+subtitle: "Teaching materials I have contributed to develop"
+title-block-banner: false
+---
+
+## Open access digital materials
+
+### Modelling criminological data
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Rlogo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Link](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-criminologia/2180003), &nbsp;
+
+These are the materials I developed jointly with my colleage Reka Solymosi when teaching quantitative data analysis with R to second-year undergraduate criminology students at the University of Manchester. I left Manchester in 2020, so I had not updated the materials since. But Reka has. You can see her updated materials [here](https://maczokni.github.io/modelling_book/).
+
+:::
+
+:::
+
+
+### R para la criminología
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Rlogo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Under construction](), &nbsp;
+
+This is the up to date version of the previous one AND updated to meet the needs of Spanish speaking students. I am jointly developing this with my colleagues [Asier Moneva](https://asiermoneva.com/about.html), [Alex Trinidad](https://www.alexandertrinidad.com) and [Steven Kemp](https://es.linkedin.com/in/steven-kemp-ed). We won´t really start working on this until Spring 2026 so it will be a while until it is ready.
+
+:::
+
+:::
+
+### Introducción a la criminología
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/INTRO.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Under construction](), &nbsp;
+
+This aims to be an open textbook geared for first year UG criminology students in Spain. I am co-coordinating this project with Lorea Arenas. Other confirmed colleagues involved include Elisa García España, Raquel Bartolomé, and Jonathan Torres. I expect part of it to be operational by September 2026.
+
+:::
+
+:::
+
+
+## Traditional textbooks
+
+### Políticas y Estrategias de Prevención del Delito y Seguridad Ciudadana (2011)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/politicas.webp)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Link](https://editorialbdef.com/productos/medina-ariza-juanjo-politicas-y-estrategias-de-prevencion-del-delito-y-seguridad-ciudadana/), &nbsp; 
+
+I didn´t really aim to write a textbook when I wrote this, but I can understand why it ended up being used that way. It reviews the conceptual, theoretical and empirical basis for the key preventative and crime control approaches. It is used on crime prevention or politics of crime course units. It´s now a bit dated. But there´s nothing like it in the Spanish market yet. I know I should aim to publish a second edition at some point. It´s just that life is too short and don´t know when I will find the time to do so.
+
+
+:::
+
+:::
+
+### A Beginner’s Guide to Statistics for Criminology and Criminal Justice Using R (2021)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/beginners.webp)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Link](https://link.springer.com/book/10.1007/978-3-030-50625-4), &nbsp; 
+
+This is a companion text for David Weisburd et al. intro to stats for criminology and criminal justice students ([here](https://link.springer.com/book/10.1007/978-3-030-47967-1)). Reka, Samuel and me were approached by the other coauthors if memory doesn´t fail me, to help with this. I´m not a big fan of the Weisburd´s book. I think its approach to teaching stats is somehow dated. I much prefer other intro to stats texts and approaches these days. But if you want to learn some basic code for running standard applications in an intro to stats text here you will find some examples.
+
+
+:::
+
+:::
+
+### Instituciones de Control del Delito (2022)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/instituciones.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Link](https://www.dykinson.com/libros/instituciones-de-control-del-delito/9788411225106/), &nbsp; 
+
+This is a textbook I coordinated and that aims to be used as the main reference text on course units that introduce the criminal justice system in Spain. This kind of course units receive different names in Spanish criminology degrees (introduction to the criminal justice system, institutions of penal control, etc.). Typically they are offered in the first or second semester of the first year, so the text is written with that audience in mind. I managed to persuade what I think is a quite impressive array of well-established and more junior scholars with a particular expertise on the different topics covered. My hope is to get this updated with a second editon in a few years time.
+
+
+:::
+
+:::
+
+### Crime Mapping and Spatial Data Analysis using R (2023)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/crimemapping.webp)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Link](https://www.taylorfrancis.com/books/mono/10.1201/9781003154914/crime-mapping-spatial-data-analysis-using-juan-medina-ariza-reka-solymosi), &nbsp; 
+
+Another collaboration with my colleague Reka Solymosi. We taught together a course unit at UoM for many years on this. It was offered both to UG and PG students. This book took the teaching materials we used for that unit to the next level. Some of the code is likely outdated, given the fast development of R spatial abilities and packages. But I believe still it is a useful resource. You can find the open bookdown version of this volume [here](https://maczokni.github.io/crime_mapping/).
+
+
+:::
+
+:::
+
+
+
+### Prevención y tratamiento de la delincuencia (2024)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/prevencion.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Link](https://www.editorialsanzytorres.com/libros/manual-de-prevencion-y-tratamiento-de-la-delincuencia/9788419947376/), &nbsp; 
+
+This is a textbook developed by colleagues at UNED and that aims to be useful for students taking course units on crime prevention and/or offender treatment. I helped to identify some of the topics and authors for the crime prevention chapters and authored two chapters on the book. Here you will find two chapters, one by Lorea Arenas on crime scripts and another by Maria Contreras on crime prevention frameworks and tools developed by Paul Ekblom, that I think are really useful from a practical standpoint.
+
+
+:::
+
+:::
+
+

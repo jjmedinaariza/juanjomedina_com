@@ -15,19 +15,19 @@ Total citations as of August 2025:
 
 - [Google Scholar](https://scholar.google.com/citations?user=FPnzOmcAAAAJ&hl=en): 3544 (h-index = 21, i10-index = 31) 
 
-## Selected Work
+## Recent Publications
 
-Valente, R., Medina-Ariza, JJ., Pérez-Pintor, JC., Gutiérrez-Gallego, JA. (2024). [Mobilities and the flexible boundaries of the neighbourhood. A test with crime data in Barcelona]()
-
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
-
+Valente, R., Medina-Ariza, JJ., Pérez-Pintor, JC., Gutiérrez-Gallego, JA. (2024). [Mobilities and the flexible boundaries of the neighbourhood. A test with crime data in Barcelona](https://www.sciencedirect.com/science/article/pii/S0143622824000225). *Applied Geography*. 164, \[[pdf](https://www.sciencedirect.com/science/article/pii/S0143622824000225/pdfft?md5=59bfd41d8438c35a111bde4434722c71&pid=1-s2.0-S0143622824000225-main.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.apgeog.2024.103217" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.apgeog.2024.103217" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Valente, R., Medina-Ariza, JJ. (2024). [Mobility, nonstationary density, and robbery distribution in the tourist metropolis](https://link.springer.com/article/10.1007/s10610-022-09528-4). *European Journal on Criminal Policy and Research*. 30, 85-107. \[[pdf](https://link.springer.com/content/pdf/10.1007/s10610-022-09528-4.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1007/s10610-022-09528-4" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1007/s10610-022-09528-4" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
+<center><hr style="width:50%"></center>
 
+Medina-Ariza, JJ., Myhill, A. (2023). [Police and intimate partner violence risk assessment: searching for evidence-based effective responses](https://link.springer.com/chapter/10.1007/978-3-031-31549-7_11). In Sturmey, çp. (ed.). *Violence in Families Integrating Research into Practice*. Springer. 253–275. \[[pdf](https://www.researchgate.net/profile/Caroline-Fisher-2/publication/372376314_Family_Violence_Professional_Training_Needs_Assessment_and_Intervention_in_Healthcare_Settings/links/659c6f6b6f6e450f19d7865f/Family-Violence-Professional-Training-Needs-Assessment-and-Intervention-in-Healthcare-Settings.pdf#page=271)\] <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-31549-7_11" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1007/978-3-031-31549-7_11" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
+<center><hr style="width:50%"></center>
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

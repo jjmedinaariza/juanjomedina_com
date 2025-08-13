@@ -1,0 +1,19 @@
+---
+title: "A new website"
+description: "About this website"
+author: "Juanjo Medina"
+date: "2025-06-28"
+categories: [news]
+image: "/files/images/quarto.png"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+And so after a few years relying on other R packages and Hugo for maintaining a website that I never really had the time to update, I have decided to try again this time with Quarto. From what I am seeing so fat, this is a more streamlined and probably more sustainable format for keeping up an academic website. Time will tell. It is likely the look of this will change over time as I get more familiar with what Quarto has to offer. Surely, it will take time until I upload here all the required content. But for now this will do.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2025-08-07T07:05:32.461Z</lastmod>
+    <lastmod>2025-08-11T17:05:44.527Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2025-08-07T07:05:32.465Z</lastmod>
+    <lastmod>2025-08-11T09:48:11.176Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
@@ -18,11 +18,11 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2025-08-07T07:05:32.464Z</lastmod>
+    <lastmod>2025-08-13T14:30:14.840Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2025-08-07T07:05:32.466Z</lastmod>
+    <lastmod>2025-08-11T10:02:06.900Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
@@ -30,14 +30,22 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2025-08-07T07:05:32.461Z</lastmod>
+    <lastmod>2025-08-13T14:31:29.922Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2025-08-07T12:57:06.429Z</lastmod>
+    <lastmod>2025-08-09T20:47:54.299Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
     <lastmod>2025-08-07T07:05:32.460Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/textbooks.html</loc>
+    <lastmod>2025-08-13T14:41:24.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/new-website/index.html</loc>
+    <lastmod>2025-08-11T17:21:18.696Z</lastmod>
   </url>
 </urlset>

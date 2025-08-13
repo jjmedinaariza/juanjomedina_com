@@ -1,67 +1,118 @@
 ---
-title: "Teaching"
-subtitle: "I teach."
+title: "Teaching 2025-2026"
+subtitle: "I coordinate the following course units"
 title-block-banner: false
 ---
 
+## Undergraduate degree in Criminology
 
-## Class 1
+### Introducción a la criminología
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/INTRO.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
+[Otoño 2025](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-criminologia/2180003), &nbsp;
 
 :::
 
 :::
 
 
-## Class 2
+### Política criminal
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/POLITICS.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Otoño 2025](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-criminologia/2180026), &nbsp; 
 
-Class 2 introduction.
 
 :::
 
 :::
 
 
-## Class 3
+### Prevención y Tratamiento de la Delincuencia
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+![](files/images/PREVENTION.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+[Primavera 2026](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-criminologia/2180018), &nbsp; 
 
-Class 3 introduction. 
 
 :::
 
 :::
 
+### Seguridad Pública y Privada
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/POLICE.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Primavera 2026](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-criminologia/2180019), &nbsp; 
+
+
+:::
+
+:::
+
+### Criminalidad Económica y de la Empresa
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/WHITE COLLAR.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Primavera 2026](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-criminologia/2180029), &nbsp; 
+
+
+:::
+
+:::
+
+## MA in Criminal Law and Criminology
+
+### Recursos Metodológicos Avanzados en la Investigación Criminológica
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Rlogo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Primavera 2026](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-criminologia/2180029), &nbsp; 
+
+
+:::
+
+:::

@@ -20,7 +20,7 @@ website:
       - text: About
         menu:
           - text: News
-            href: posts.qmd#category=news
+            href: posts.qmd
           - text: Contact
             href: contact.qmd             
       - text: Research
@@ -30,19 +30,19 @@ website:
           - text: Recent projects
             href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
+        menu: 
+          - text: Current teaching
+            href: teaching.qmd 
+          - text: Resources and Textbooks
+            href: textbooks.qmd
       - text: Blog
         href: https://www.pensarlaseguridad.eu
         target: _blank
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
 
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/medina_cva.pdf
       - icon: github
         href: https://github.com/jjmedinaariza
         target: _blank
@@ -89,8 +89,8 @@ bibliography: references.bib  # Add references.bib to the root folder to enable 
 format:
   html:
     theme: 
-      light: lux
       dark: darkly
+      light: lux
     css: styles.css
     toc: true
     footnotes-hover: true
