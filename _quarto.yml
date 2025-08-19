@@ -36,7 +36,7 @@ website:
           - text: Resources and Textbooks
             href: textbooks.qmd
       - text: Blog
-        href: https://www.pensarlaseguridad.eu
+        href: https://www.pensarlaseguridad.es
         target: _blank
 
 
