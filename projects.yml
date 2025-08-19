@@ -19,19 +19,39 @@
       title: "PolRef"
       author: Juanjo Medina
       subtitle: "Agencia Estatal de Investigación"
-      description: ""
+      description: "Mixed method research project that aims to develop an
+      understanding of the key challenges and opportunities for police reform
+      in Spain"
       started: "2023"
       ended: "2025"
-      funding: "€"
+      funding: "€75000"
       categories: [police] 
 
     - #path: https://convi-cities.com/transmedias/
       #image:  "files/images/transmedia.png"
       title: "RiskPol"
       author: Juanjo Medina
-      subtitle: "Junta de Andaluca"
-      description: ""
+      subtitle: "Junta de Andalucía"
+      description: "Project aiming to develop a better understanding of how
+      police risk assessment of intimate partner violence operates in Spain
+      and its impact on victim safety"
       started: "2022"
       ended: "2025"
-      funding: "€"
+      funding: "€42505"
       categories: [police, intimate partner violence, risk assessment] 
+  
+       - #path: https://convi-cities.com/transmedias/
+      #image:  "files/images/transmedia.png"
+      title: "VIPOLIS"
+      author: Juanjo Medina y JA Gutierrez
+      subtitle: "Agencia Estatal de Investigación"
+      description: "Study that used police data and victim survey data from the
+      Metropolitan area of Barcelona to study the geographic pattern of crime 
+      and the role of tourism and population mobility on understanding crime
+      patterns"
+      started: "2021"
+      ended: "2024"
+      funding: "€30492"
+      categories: [enviromental criminology, crime mapping]    
+      
+      
