@@ -56,9 +56,9 @@ This is the up to date version of the previous one AND updated to meet the needs
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Under construction](), &nbsp;
+[Under construction](https://www.intro-criminologia.es), &nbsp;
 
-This aims to be an open textbook geared for first year UG criminology students in Spain. I am co-coordinating this project with Lorea Arenas. Other confirmed colleagues involved include Elisa García España, Raquel Bartolomé, and Jonathan Torres. I expect part of it to be operational by September 2026. You can keep up with development [here](www.intro-criminologia.es).
+This aims to be an open textbook geared for first year UG criminology students in Spain. I am co-coordinating this project with Lorea Arenas. Other confirmed colleagues involved include Elisa García España, Raquel Bartolomé, and Jonathan Torres. I expect part of it to be operational by September 2026.
 
 :::
 
