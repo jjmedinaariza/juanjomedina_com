@@ -50,7 +50,7 @@ This is the up to date version of the previous one AND updated to meet the needs
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/INTRO.png)
+![](files/images/amber_kipp_2.png)
 
 :::
 
