@@ -1,0 +1,21 @@
+---
+title: "Congreso Andaluz de Sociología"
+description: "Dos comunicaciones presentadas en el Congreso Andaluz de Sociología, se incluyen aquí"
+author: "Juanjo Medina"
+date: "2025-11-27"
+categories: [news, media]
+image: "/files/images/cas.png"
+---
+
+
+## Summary
+
+I have delivered two presentations during the Andalusian congress of sociology. Both are linked to the PolRef project. You can find the pdf with the presentations and details in how to cite them here:
+
+[What do Spaniards think about police reform?]()
+[Trends on Spaniards attitudes toward the police]()
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
