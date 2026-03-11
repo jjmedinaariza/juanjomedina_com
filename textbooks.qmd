@@ -31,15 +31,15 @@ These are the materials I developed jointly with my colleage Reka Solymosi when 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/Rlogo.png)
+![](files/images/libror.jpeg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Under construction](), &nbsp;
+[Under construction](https://criminologia-con-r.es), &nbsp;
 
-This is the up to date version of the previous one AND updated to meet the needs of Spanish speaking students. I am jointly developing this with my colleagues [Asier Moneva](https://asiermoneva.com/about.html), [Alex Trinidad](https://www.alexandertrinidad.com) and [Steven Kemp](https://es.linkedin.com/in/steven-kemp-ed). We won´t really start working on this until Spring 2026 so it will be a while until it is ready.
+This is the up to date version of the previous one AND updated to meet the needs of Spanish speaking students. I am jointly developing this with my colleagues [Asier Moneva](https://asiermoneva.com/about.html), [Alex Trinidad](https://www.alexandertrinidad.com), [Steven Kemp](https://es.linkedin.com/in/steven-kemp-ed) and Jonathan Torres. We won´t really start working on this until Spring 2026 so it will be a while until it is ready.
 
 :::
 
